@@ -1,2 +1,4 @@
 *.csv
 *.npz
+.DS_Store
+*.DS_Store
