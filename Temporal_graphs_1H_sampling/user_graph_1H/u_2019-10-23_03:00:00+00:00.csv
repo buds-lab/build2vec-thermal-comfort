@@ -1,0 +1,2 @@
+user_node,cell_list,clo,heartRate_cozie,responseSpeed_cozie,comfort_cozie,noise_cozie,thermal_cozie,light_cozie,user_id,thermal_label
+u_26,"['c_171', 'c_172', 'c_173', 'c_175', 'c_176', 'c_178', 'c_181', 'c_452', 'c_453', 'c_454', 'c_455', 'c_457', 'c_458', 'c_459', 'c_460', 'c_461', 'c_462', 'c_463', 'c_464', 'c_465', 'c_466', 'c_467', 'c_468', 'c_469', 'c_470', 'c_471', 'c_472', 'c_473', 'c_474', 'c_475', 'c_477', 'c_478', 'c_480', 'c_481']",10.0,88.0,3215.025,,10.0,,10.0,cresh26,"[0, 0, 0, 0, 0, 0, 0, 0, 0]"
