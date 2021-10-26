@@ -15,3 +15,16 @@ pandas
 geopandas
 scikit-learn
 ```
+
+## Reproducibility
+
+1. Goto `./code` folder
+2. install requirements `pip3 install -r requirements.txt`
+3. open the `code.ipynb` notebook
+4. run the code
+
+## example output
+
+Spatial similarity between different cells
+
+![ezgif-4-73470bfbefdf](https://user-images.githubusercontent.com/6969514/138804697-6e3cdebe-5ec1-4518-9637-6a07ae8c40a5.gif)
