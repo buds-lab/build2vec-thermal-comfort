@@ -1,0 +1,5 @@
+build2vec
+scikit-learn
+pandas
+numpy
+matplotlib
