@@ -3,3 +3,4 @@ scikit-learn
 pandas
 numpy
 matplotlib
+networkx
