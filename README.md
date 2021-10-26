@@ -19,9 +19,9 @@ scikit-learn
 ## Reproducibility
 
 1. Goto `./code` folder
-2. install requirements `pip3 install -r requirements.txt`
-3. open the `code.ipynb` notebook
-4. run the code
+2. Install requirements `pip3 install -r requirements.txt`
+3. Open the `code.ipynb` notebook
+4. Run all the cells
 
 ## example output
 
